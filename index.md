@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Max Glover
 
-You can use the [editor on GitHub](https://github.com/maxaglover/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[LinkedIn profile](www.linkedin.com/in/max-glover-898b3221a)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[GitHub profile](https://github.com/maxaglover)
 
-### Markdown
+[Kaggle profile](https://www.kaggle.com/maxglover)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###A few links to further describe my work history beyond what is in my LinkedIn profile...
 
-```markdown
-Syntax highlighted code block
+Learn more about georeferenced soil sampling on the [Wikipedia soil test page](https://en.wikipedia.org/wiki/Soil_test). I added the "Geographic distribution of samples for Precision Agriculture" section on May 22 2019.
 
-# Header 1
-## Header 2
-### Header 3
+Learn more about MU Extension on the [University of Missouri Extension home page](https://extension.missouri.edu/).
 
-- Bulleted
-- List
+[Pioneer Hi Bred International](https://www.pioneer.com/landing) was a [DuPont](https://www.dupont.com/) company during my employment. Pioneer is now part of [Corteva Agriscience](https://www.corteva.com/).
 
-1. Numbered
-2. List
+###Education
 
-**Bold** and _Italic_ and `Code` text
+Google Data Analytics professional - view [Credly completion badge](https://www.credly.com/badges/efc9af85-92e7-449b-85b9-8b26a4a8404d)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maxaglover/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Master of Science in Maize Genetics and Bachelor of Science in Plant Science from the [University of Missouri](https://missouri.edu/) in Columbia.
