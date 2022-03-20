@@ -1,2 +1,2 @@
-# portfolio
-A quick github pages portfolio
+# Max Glover
+Portfolio
