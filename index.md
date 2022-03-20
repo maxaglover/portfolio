@@ -1,4 +1,4 @@
-## About me
+## Max Glover
 
 [LinkedIn profile](www.linkedin.com/in/max-glover-898b3221a)
 
