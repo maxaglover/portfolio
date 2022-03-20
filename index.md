@@ -1,10 +1,12 @@
 ## Max Glover
 
-LinkedIn www.linkedin.com/in/max-glover-898b3221a
+**Profile pages**
 
-GitHub https://github.com/maxaglover
+[LinkedIn](https://www.linkedin.com/in/max-glover-898b3221a/)
 
-Kaggle https://www.kaggle.com/maxglover
+[GitHub](https://github.com/maxaglover)
+
+[Kaggle](https://www.kaggle.com/maxglover)
 
 **Work history additional information**
 
